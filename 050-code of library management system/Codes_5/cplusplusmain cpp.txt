@@ -1,0 +1,62 @@
+// User is an abstract class
+class Book {
+    private: 
+        string isbn;
+        string title;
+        string subject;
+        string publisher;
+        string language;
+        int numberOfPages;
+        BookFormat bookFormat;
+        list<Author> authors;
+};
+ 
+class BookItem {
+private:
+    string id;
+    bool isReferenceOnly;
+    Date borrowed;
+    Date dueDate;
+    double price;
+    BookStatus status;
+    Date dateOfPurchase;
+    Date publicationDate;
+    Rack* placedAt;
+    Book* book;  // Aggregation: BookItem has a reference to a Book
+
+public:
+    // Constructors, getters, and other existing methods...
+
+    bool checkout(string memberId) {
+        // Implementation for checkout logic
+        // Update the status, set due date, etc.
+        // Return true if checkout is successful, false otherwise
+        return true;  // Placeholder, replace with actual logic
+    }
+
+    void setPlacedAt(Rack* rack) {
+        this->placedAt = rack;
+        // Additional logic if needed
+    }
+
+    void setAddedBy(Librarian* librarian) {
+        // Implementation for setting the librarian who added the book item
+        // This might involve updating logs or other data related to the librarian
+        // No return value as it's a setter method
+    }
+
+    // Other methods...
+
+    Book* getBook() {
+        return book;
+    }
+};
+
+class Rack {
+    private: 
+        int number;
+        string locationIdentifier;
+        list<BookItem*> bookItems;
+    public:
+        void addBookItem(BookItem* bookItem);
+};

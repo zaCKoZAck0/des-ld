@@ -1,0 +1,1184 @@
+{
+    "course": "Grokking the Low Level Design Interview Using OOD Principles",
+    "url": "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles?showContent=true",
+    "toc": [
+        {
+            "category": "Introduction",
+            "topics": [
+                [
+                    "Overview",
+                    "000-overview",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5960523739037696?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/overview?showContent=true"
+                ],
+                [
+                    "Introduction to the Course",
+                    "001-introduction to the course",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6156041320660992?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/introduction-to-the-course?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Cornerstones of Object-oriented Programming",
+            "topics": [
+                [
+                    "Background of Object-oriented Programming (OOP)",
+                    "002-background of object oriented programming oop",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6098172273491968?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/background-of-object-oriented-programming-oop?showContent=true"
+                ],
+                [
+                    "Encapsulation",
+                    "003-encapsulation",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6504525840252928?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/encapsulation?showContent=true"
+                ],
+                [
+                    "Abstraction",
+                    "004-abstraction",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4989957095817216?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/abstraction?showContent=true"
+                ],
+                [
+                    "Inheritance",
+                    "005-inheritance",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5510500085661696?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/inheritance?showContent=true"
+                ],
+                [
+                    "Polymorphism",
+                    "006-polymorphism",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4612292360798208?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/polymorphism?showContent=true"
+                ],
+                [
+                    "Quiz: Object-oriented Basics",
+                    "007-quiz object oriented basics",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5962355341262848?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/quiz-object-oriented-basics?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Object-oriented Design",
+            "topics": [
+                [
+                    "Introduction to Object-oriented Analysis and Design (OOAD)",
+                    "008-introduction to object oriented analysis and design ooad",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5399405387841536?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/introduction-to-object-oriented-analysis-and-design-ooad?showContent=true"
+                ],
+                [
+                    "Introduction to the Unified Modeling Language",
+                    "009-introduction to the unified modeling language",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5905000549318656?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/introduction-to-the-unified-modeling-language?showContent=true"
+                ],
+                [
+                    "Types of UML Diagrams",
+                    "010-types of uml diagrams",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4722803754663936?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/types-of-uml-diagrams?showContent=true"
+                ],
+                [
+                    "Use Case Diagram",
+                    "011-use case diagram",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5424575903170560?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram?showContent=true"
+                ],
+                [
+                    "Class Diagram",
+                    "012-class diagram",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5678758717816832?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram?showContent=true"
+                ],
+                [
+                    "Sequence Diagram",
+                    "013-sequence diagram",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5224098311700480?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram?showContent=true"
+                ],
+                [
+                    "Activity Diagram",
+                    "014-activity diagram",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6705616068542464?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram?showContent=true"
+                ],
+                [
+                    "Quiz: Object-oriented Design",
+                    "015-quiz object oriented design",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4504644179197952?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/quiz-object-oriented-design?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Object-oriented Design Principles",
+            "topics": [
+                [
+                    "Introduction to SOLID Design Principles",
+                    "016-introduction to solid design principles",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6732554378149888?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/introduction-to-solid-design-principles?showContent=true"
+                ],
+                [
+                    "SOLID: Single Responsibility Principle",
+                    "017-solid single responsibility principle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6062503710949376?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/solid-single-responsibility-principle?showContent=true"
+                ],
+                [
+                    "SOLID: Open Closed Principle",
+                    "018-solid open closed principle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6348852334690304?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/solid-open-closed-principle?showContent=true"
+                ],
+                [
+                    "SOLID: Liskov Substitution Principle",
+                    "019-solid liskov substitution principle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4941477451137024?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/solid-liskov-substitution-principle?showContent=true"
+                ],
+                [
+                    "SOLID: Interface Segregation Principle",
+                    "020-solid interface segregation principle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6500211344277504?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/solid-interface-segregation-principle?showContent=true"
+                ],
+                [
+                    "SOLID: Dependency Inversion Principle",
+                    "021-solid dependency inversion principle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4975213607649280?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/solid-dependency-inversion-principle?showContent=true"
+                ],
+                [
+                    "Quiz: Object-oriented Design Principles",
+                    "022-quiz object oriented design principles",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4522841418760192?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/quiz-object-oriented-design-principles?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Design Patterns",
+            "topics": [
+                [
+                    "Introduction to the Design Patterns",
+                    "023-introduction to the design patterns",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5742887740637184?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/introduction-to-the-design-patterns?showContent=true"
+                ],
+                [
+                    "Classification of Design Patterns",
+                    "024-classification of design patterns",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6424853855076352?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/classification-of-design-patterns?showContent=true"
+                ],
+                [
+                    "Creational Design Patterns",
+                    "025-creational design patterns",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6512418782183424?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/creational-design-patterns?showContent=true"
+                ],
+                [
+                    "Structural Design Patterns",
+                    "026-structural design patterns",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5770496058851328?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/structural-design-patterns?showContent=true"
+                ],
+                [
+                    "Behavioral Design Patterns",
+                    "027-behavioral design patterns",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5765883666628608?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/behavioral-design-patterns?showContent=true"
+                ],
+                [
+                    "Quiz: Design Patterns",
+                    "028-quiz design patterns",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5218544979804160?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/quiz-design-patterns?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Real-world Design Problems",
+            "topics": [
+                [
+                    "An Approach to Solve a Real-world Problem",
+                    "029-an approach to solve a real world problem",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5225512261910528?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/an-approach-to-solve-a-real-world-problem?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Parking Lot ",
+            "topics": [
+                [
+                    "Getting Ready: Parking Lot",
+                    "030-getting ready parking lot",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6276164341727232?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-parking-lot?showContent=true"
+                ],
+                [
+                    "Requirements for the Parking Lot Design",
+                    "031-requirements for the parking lot design",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4928023392681984?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-parking-lot-design?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Parking Lot",
+                    "032-use case diagram for the parking lot",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5098525681778688?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-parking-lot?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Parking Lot",
+                    "033-class diagram for the parking lot",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6722059256463360?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-parking-lot?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Parking Lot",
+                    "034-sequence diagram for the parking lot",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5942521041780736?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-parking-lot?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Parking Lot",
+                    "035-activity diagram for the parking lot",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5488447435571200?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-parking-lot?showContent=true"
+                ],
+                [
+                    "Code for the Parking Lot",
+                    "036-code for the parking lot",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6211656583741440?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-parking-lot?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing an Elevator System",
+            "topics": [
+                [
+                    "Getting Ready: Elevator System",
+                    "037-getting ready elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5598619459911680?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-elevator-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Elevator System",
+                    "038-requirements for the elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6642858409066496?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-elevator-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Elevator System",
+                    "039-use case diagram for the elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5060455555137536?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-elevator-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Elevator System",
+                    "040-class diagram for the elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5884475900952576?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-elevator-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Elevator System",
+                    "041-sequence diagram for the elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6423575504617472?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-elevator-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Elevator System",
+                    "042-activity diagram for the elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6452401311842304?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-elevator-system?showContent=true"
+                ],
+                [
+                    "Code of Elevator System",
+                    "043-code of elevator system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6527052601884672?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-of-elevator-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Library Management System",
+            "topics": [
+                [
+                    "Getting Ready: Library Management System",
+                    "044-getting ready library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5798165848784896?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-library-management-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Library Management System",
+                    "045-requirements for the library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5635469541113856?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-library-management-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Library Management System",
+                    "046-use case diagram for the library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6616873252945920?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-library-management-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Library Management System",
+                    "047-class diagram for the library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4823331759194112?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-library-management-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Library Management System",
+                    "048-sequence diagram for the library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4655341294059520?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-library-management-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Library Management System",
+                    "049-activity diagram for the library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6368808088633344?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-library-management-system?showContent=true"
+                ],
+                [
+                    "Code of Library Management System",
+                    "050-code of library management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6101410175516672?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-of-library-management-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing the Amazon Locker Service",
+            "topics": [
+                [
+                    "Getting Ready: Amazon Locker Service",
+                    "051-getting ready amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6069894208815104?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-amazon-locker-service?showContent=true"
+                ],
+                [
+                    "Requirements for the Amazon Locker Service",
+                    "052-requirements for the amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5801016767545344?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-amazon-locker-service?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Amazon Locker Service",
+                    "053-use case diagram for the amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6219731115966464?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-amazon-locker-service?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Amazon Locker Service",
+                    "054-class diagram for the amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4691537063837696?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-amazon-locker-service?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Amazon Locker Service",
+                    "055-sequence diagram for the amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5436453903663104?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-amazon-locker-service?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Amazon Locker Service",
+                    "056-activity diagram for the amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6599789557055488?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-amazon-locker-service?showContent=true"
+                ],
+                [
+                    "Code for the Amazon Locker Service",
+                    "057-code for the amazon locker service",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5125081531678720?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-amazon-locker-service?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Vending Machine",
+            "topics": [
+                [
+                    "Getting Ready: Vending Machine",
+                    "058-getting ready vending machine",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6351761436835840?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-vending-machine?showContent=true"
+                ],
+                [
+                    "Requirements for the Vending Machine",
+                    "059-requirements for the vending machine",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6161581157384192?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-vending-machine?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Vending Machine",
+                    "060-use case diagram for the vending machine",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4732761898483712?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-vending-machine?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Vending Machine",
+                    "061-class diagram for the vending machine",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5373748763164672?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-vending-machine?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Vending Machine",
+                    "062-activity diagram for the vending machine",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6512840561393664?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-vending-machine?showContent=true"
+                ],
+                [
+                    "Code for the Vending Machine",
+                    "063-code for the vending machine",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5842069681864704?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-vending-machine?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing an Online Blackjack Game",
+            "topics": [
+                [
+                    "Getting Ready: Online Blackjack Game",
+                    "064-getting ready online blackjack game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5784621407272960?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-online-blackjack-game?showContent=true"
+                ],
+                [
+                    "Requirements for the Online Blackjack Game",
+                    "065-requirements for the online blackjack game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6503083804983296?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-online-blackjack-game?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Online Blackjack Game",
+                    "066-use case diagram for the online blackjack game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5466181593202688?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-online-blackjack-game?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Online Blackjack Game",
+                    "067-class diagram for the online blackjack game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4902989846544384?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-online-blackjack-game?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Online Blackjack Game",
+                    "068-activity diagram for the online blackjack game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6271264281067520?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-online-blackjack-game?showContent=true"
+                ],
+                [
+                    "Code for the Online Blackjack Game",
+                    "069-code for the online blackjack game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5678759047069696?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-online-blackjack-game?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Meeting Scheduler",
+            "topics": [
+                [
+                    "Getting Ready: The Meeting Scheduler Problem",
+                    "070-getting ready the meeting scheduler problem",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5571997574889472?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-meeting-scheduler-problem?showContent=true"
+                ],
+                [
+                    "Requirements for the Meeting Scheduler",
+                    "071-requirements for the meeting scheduler",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4552859140227072?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-meeting-scheduler?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Meeting Scheduler",
+                    "072-use case diagram for the meeting scheduler",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6566425982664704?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-meeting-scheduler?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Meeting Scheduler",
+                    "073-class diagram for the meeting scheduler",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5916251618803712?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-meeting-scheduler?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Meeting Scheduler",
+                    "074-sequence diagram for the meeting scheduler",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4728022133637120?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-meeting-scheduler?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Meeting Scheduler",
+                    "075-activity diagram for the meeting scheduler",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5955594525868032?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-meeting-scheduler?showContent=true"
+                ],
+                [
+                    "Code for the Meeting Scheduler",
+                    "076-code for the meeting scheduler",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4653866107011072?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-meeting-scheduler?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Movie Ticket Booking System",
+            "topics": [
+                [
+                    "Getting Ready: Movie Ticket Booking System",
+                    "077-getting ready movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6553143930519552?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-movie-ticket-booking-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Movie Ticket Booking System",
+                    "078-requirements for the movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5748348657336320?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-movie-ticket-booking-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Movie Ticket Booking System",
+                    "079-use case diagram for the movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5302189004423168?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-movie-ticket-booking-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Movie Ticket Booking System",
+                    "080-class diagram for the movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6632333597999104?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-movie-ticket-booking-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Movie Ticket Booking System",
+                    "081-sequence diagram for the movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4835239549730816?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-movie-ticket-booking-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Movie Ticket Booking System",
+                    "082-activity diagram for the movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6345062630031360?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-movie-ticket-booking-system?showContent=true"
+                ],
+                [
+                    "Code for the Movie Ticket Booking System",
+                    "083-code for the movie ticket booking system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6523839966347264?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-movie-ticket-booking-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Car Rental System",
+            "topics": [
+                [
+                    "Getting Ready: The Car Rental System",
+                    "084-getting ready the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5816226192556032?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-car-rental-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Car Rental System",
+                    "085-requirements for the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4954864321036288?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-car-rental-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Car Rental System",
+                    "086-use case diagram for the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5990796071534592?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-car-rental-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Car Rental System",
+                    "087-class diagram for the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5607380186562560?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-car-rental-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Car Rental System",
+                    "088-sequence diagram for the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6250981438521344?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-car-rental-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Car Rental System",
+                    "089-activity diagram for the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6111367285440512?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-car-rental-system?showContent=true"
+                ],
+                [
+                    "Code for the Car Rental System",
+                    "090-code for the car rental system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6317290968842240?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-car-rental-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing ATM",
+            "topics": [
+                [
+                    "Getting Ready: The ATM System",
+                    "091-getting ready the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5101998182760448?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-atm-system?showContent=true"
+                ],
+                [
+                    "Requirements for the ATM System",
+                    "092-requirements for the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5777893008605184?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-atm-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the ATM System",
+                    "093-use case diagram for the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5191075351494656?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-atm-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the ATM System",
+                    "094-class diagram for the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4804677498830848?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-atm-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the ATM System",
+                    "095-sequence diagram for the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4871817715253248?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-atm-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the ATM System",
+                    "096-activity diagram for the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5109112275992576?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-atm-system?showContent=true"
+                ],
+                [
+                    "Code for the ATM System",
+                    "097-code for the atm system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4911472275881984?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-atm-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Chess Game",
+            "topics": [
+                [
+                    "Getting Ready: The Chess Game",
+                    "098-getting ready the chess game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5572728729108480?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-chess-game?showContent=true"
+                ],
+                [
+                    "Requirements for the Chess Game",
+                    "099-requirements for the chess game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5244835679436800?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-chess-game?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Chess Game",
+                    "100-use case diagram for the chess game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6007166617255936?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-chess-game?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Chess Game",
+                    "101-class diagram for the chess game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5732015845670912?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-chess-game?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Chess Game",
+                    "102-activity diagram for the chess game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6608838909493248?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-chess-game?showContent=true"
+                ],
+                [
+                    "Code for the Chess Game",
+                    "103-code for the chess game",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5419005675569152?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-chess-game?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Hotel Management System",
+            "topics": [
+                [
+                    "Getting Ready: The Hotel Management System",
+                    "104-getting ready the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5397940059504640?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-hotel-management-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Hotel Management System",
+                    "105-requirements for the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5616280768086016?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-hotel-management-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Hotel Management System",
+                    "106-use case diagram for the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4770202208436224?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-hotel-management-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Hotel Management System",
+                    "107-class diagram for the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6101784200478720?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-hotel-management-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Hotel Management System",
+                    "108-sequence diagram for the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4909350250610688?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-hotel-management-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Hotel Management System",
+                    "109-activity diagram for the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5412792868012032?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-hotel-management-system?showContent=true"
+                ],
+                [
+                    "Code for the Hotel Management System",
+                    "110-code for the hotel management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4898729440313344?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-hotel-management-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing the Amazon Online Shopping System",
+            "topics": [
+                [
+                    "Getting Ready: The Amazon Online Shopping System",
+                    "111-getting ready the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6076512478691328?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-amazon-online-shopping-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Amazon Online Shopping System",
+                    "112-requirements for the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4824408051154944?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-amazon-online-shopping-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Amazon Online Shopping System",
+                    "113-use case diagram for the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5402575537176576?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-amazon-online-shopping-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Amazon Online Shopping System",
+                    "114-class diagram for the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6113026015232000?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-amazon-online-shopping-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Amazon Online Shopping System",
+                    "115-sequence diagram for the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5101364581761024?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-amazon-online-shopping-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Amazon Online Shopping System",
+                    "116-activity diagram for the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5911026583470080?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-amazon-online-shopping-system?showContent=true"
+                ],
+                [
+                    "Code for the Amazon Online Shopping System",
+                    "117-code for the amazon online shopping system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5634660812193792?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-amazon-online-shopping-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing Stack Overflow",
+            "topics": [
+                [
+                    "Getting Ready: Stack Overflow",
+                    "118-getting ready stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5007773721165824?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-stack-overflow?showContent=true"
+                ],
+                [
+                    "Requirements for Stack Overflow",
+                    "119-requirements for stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4681614011662336?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-stack-overflow?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for Stack Overflow",
+                    "120-use case diagram for stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4790351711961088?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-stack-overflow?showContent=true"
+                ],
+                [
+                    "Class Diagram for Stack Overflow",
+                    "121-class diagram for stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5490973346103296?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-stack-overflow?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for Stack Overflow",
+                    "122-sequence diagram for stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5490623111233536?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-stack-overflow?showContent=true"
+                ],
+                [
+                    "Activity Diagram for Stack Overflow",
+                    "123-activity diagram for stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4613720120754176?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-stack-overflow?showContent=true"
+                ],
+                [
+                    "Code for Stack Overflow",
+                    "124-code for stack overflow",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5913671215874048?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-stack-overflow?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Restaurant Management System",
+            "topics": [
+                [
+                    "Getting Ready: The Restaurant Management System",
+                    "125-getting ready the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4775481582026752?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-restaurant-management-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Restaurant Management System",
+                    "126-requirements for the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5592799430049792?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-restaurant-management-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Restaurant Management System",
+                    "127-use case diagram for the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6482479776268288?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-restaurant-management-system?showContent=true"
+                ],
+                [
+                    "Class diagram for the Restaurant Management System",
+                    "128-class diagram for the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6210405828657152?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-restaurant-management-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Restaurant Management System",
+                    "129-sequence diagram for the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5569020712714240?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-restaurant-management-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Restaurant Management System",
+                    "130-activity diagram for the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5616451496181760?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-restaurant-management-system?showContent=true"
+                ],
+                [
+                    "Code for the Restaurant Management System",
+                    "131-code for the restaurant management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5649412002152448?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-restaurant-management-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing Facebook",
+            "topics": [
+                [
+                    "Getting Ready: The Facebook System",
+                    "132-getting ready the facebook system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5513562525270016?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-facebook-system?showContent=true"
+                ],
+                [
+                    "Requirements for Facebook",
+                    "133-requirements for facebook",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5451109412110336?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-facebook?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for Facebook",
+                    "134-use case diagram for facebook",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5550076061810688?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-facebook?showContent=true"
+                ],
+                [
+                    "Class Diagram for Facebook",
+                    "135-class diagram for facebook",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4730817050050560?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-facebook?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for  Facebook",
+                    "136-sequence diagram for facebook",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5720196763615232?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-facebook?showContent=true"
+                ],
+                [
+                    "Activity Diagram for  Facebook",
+                    "137-activity diagram for facebook",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4550266590593024?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-facebook?showContent=true"
+                ],
+                [
+                    "Code for Facebook",
+                    "138-code for facebook",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6053923299524608?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-facebook?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing an Online Stock Brokerage System",
+            "topics": [
+                [
+                    "Getting Ready: An Online Stock Brokerage System",
+                    "139-getting ready an online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5081333196128256?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-an-online-stock-brokerage-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Online Stock Brokerage System",
+                    "140-requirements for the online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5002522888765440?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-online-stock-brokerage-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Online Stock Brokerage System",
+                    "141-use case diagram for the online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5131948513296384?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-online-stock-brokerage-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Online Stock Brokerage System",
+                    "142-class diagram for the online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4575406147764224?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-online-stock-brokerage-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Online Stock Brokerage System",
+                    "143-sequence diagram for the online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5185398703915008?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-online-stock-brokerage-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Online Stock Brokerage System",
+                    "144-activity diagram for the online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4961338850017280?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-online-stock-brokerage-system?showContent=true"
+                ],
+                [
+                    "Code for the Online Stock Brokerage System",
+                    "145-code for the online stock brokerage system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5620382120017920?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-online-stock-brokerage-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing a Jigsaw Puzzle",
+            "topics": [
+                [
+                    "Getting Ready: Jigsaw Puzzle",
+                    "146-getting ready jigsaw puzzle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4983191784128512?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-jigsaw-puzzle?showContent=true"
+                ],
+                [
+                    "Requirements for the Jigsaw Puzzle",
+                    "147-requirements for the jigsaw puzzle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6422319629336576?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-jigsaw-puzzle?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Jigsaw Puzzle",
+                    "148-class diagram for the jigsaw puzzle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4983682953904128?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-jigsaw-puzzle?showContent=true"
+                ],
+                [
+                    "Code of Jigsaw Puzzle",
+                    "149-code of jigsaw puzzle",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4527257987317760?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-of-jigsaw-puzzle?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing an Airline Management System",
+            "topics": [
+                [
+                    "Getting Ready: The Airline Management System",
+                    "150-getting ready the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5983485107109888?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-airline-management-system?showContent=true"
+                ],
+                [
+                    "Requirements for the Airline Management System",
+                    "151-requirements for the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5890216939487232?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-the-airline-management-system?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for the Airline Management System",
+                    "152-use case diagram for the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4984766765203456?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-the-airline-management-system?showContent=true"
+                ],
+                [
+                    "Class Diagram for the Airline Management System",
+                    "153-class diagram for the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5381527174381568?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-the-airline-management-system?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for the Airline Management System",
+                    "154-sequence diagram for the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5450949964595200?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-the-airline-management-system?showContent=true"
+                ],
+                [
+                    "Activity Diagram for the Airline Management System",
+                    "155-activity diagram for the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5273648345907200?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-the-airline-management-system?showContent=true"
+                ],
+                [
+                    "Code for the Airline Management System",
+                    "156-code for the airline management system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5995883335516160?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-the-airline-management-system?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing Cricinfo",
+            "topics": [
+                [
+                    "Getting Ready: The Cricinfo System",
+                    "157-getting ready the cricinfo system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5701411636772864?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-cricinfo-system?showContent=true"
+                ],
+                [
+                    "Requirements for Cricinfo",
+                    "158-requirements for cricinfo",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5684717988085760?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-cricinfo?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for Cricinfo",
+                    "159-use case diagram for cricinfo",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5181276366831616?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-cricinfo?showContent=true"
+                ],
+                [
+                    "Class Diagram for Cricinfo",
+                    "160-class diagram for cricinfo",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5683148496306176?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-cricinfo?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for Cricinfo",
+                    "161-sequence diagram for cricinfo",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5017688209620992?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-cricinfo?showContent=true"
+                ],
+                [
+                    "Activity Diagram for Cricinfo",
+                    "162-activity diagram for cricinfo",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5446998141698048?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-cricinfo?showContent=true"
+                ],
+                [
+                    "Code for Cricinfo",
+                    "163-code for cricinfo",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5124345484804096?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-cricinfo?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Designing LinkedIn",
+            "topics": [
+                [
+                    "Getting Ready: The LinkedIn System",
+                    "164-getting ready the linkedin system",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5121032991277056?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/getting-ready-the-linkedin-system?showContent=true"
+                ],
+                [
+                    "Requirements for LinkedIn",
+                    "165-requirements for linkedin",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6676498603048960?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/requirements-for-linkedin?showContent=true"
+                ],
+                [
+                    "Use Case Diagram for LinkedIn",
+                    "166-use case diagram for linkedin",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6663591366492160?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/use-case-diagram-for-linkedin?showContent=true"
+                ],
+                [
+                    "Class Diagram for LinkedIn",
+                    "167-class diagram for linkedin",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5159026271977472?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/class-diagram-for-linkedin?showContent=true"
+                ],
+                [
+                    "Sequence Diagram for LinkedIn",
+                    "168-sequence diagram for linkedin",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/4668575836274688?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/sequence-diagram-for-linkedin?showContent=true"
+                ],
+                [
+                    "Activity Diagram for LinkedIn",
+                    "169-activity diagram for linkedin",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5714015537070080?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/activity-diagram-for-linkedin?showContent=true"
+                ],
+                [
+                    "Code for LinkedIn",
+                    "170-code for linkedin",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6071551264030720?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/code-for-linkedin?showContent=true"
+                ]
+            ]
+        },
+        {
+            "category": "Wrapping Up",
+            "topics": [
+                [
+                    "Interview Tips",
+                    "171-interview tips",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/6310221117128704?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/interview-tips?showContent=true"
+                ],
+                [
+                    "Conclusion",
+                    "172-conclusion",
+                    "https://educative.io/api/collection/10370001/5583710957338624/page/5035681250541568?work_type=collection",
+                    "https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles/conclusion?showContent=true"
+                ]
+            ]
+        }
+    ]
+}

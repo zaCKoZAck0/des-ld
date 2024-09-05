@@ -1,0 +1,282 @@
+class ATMState {
+    insertCard(atm, card) {}
+    authenticatePin(atm, card, pin) {}
+    selectOperation(atm, card, tType) {}
+    cashWithdrawal(atm, card, withdrawAmount) {}
+    displayBalance(atm, card) {}
+    transferMoney(atm, card, accountNumber, transferAmount) {}
+    returnCard() {}
+    exit(atm) {}
+}
+
+class IdleState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}
+
+class ATMState {
+    insertCard(atm, card) {
+        throw new Error("Abstract method - insertCard must be implemented");
+    }
+
+    authenticatePin(atm, card, pin) {
+        throw new Error("Abstract method - authenticatePin must be implemented");
+    }
+
+    selectOperation(atm, card, tType) {
+        throw new Error("Abstract method - selectOperation must be implemented");
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        throw new Error("Abstract method - cashWithdrawal must be implemented");
+    }
+
+    displayBalance(atm, card) {
+        throw new Error("Abstract method - displayBalance must be implemented");
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        throw new Error("Abstract method - transferMoney must be implemented");
+    }
+
+    returnCard() {
+        throw new Error("Abstract method - returnCard must be implemented");
+    }
+
+    exit(atm) {
+        throw new Error("Abstract method - exit must be implemented");
+    }
+}
+
+class IdleState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}
+
+class HasCardState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}
+
+class SelectOperationState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}
+
+class CheckBalanceState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}
+
+class CashWithdrawalState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}
+
+class TransferMoneyState extends ATMState {
+    insertCard(atm, card) {
+        // definition
+    }
+
+    authenticatePin(atm, card, pin) {
+        // definition
+    }
+
+    selectOperation(atm, card, tType) {
+        // definition
+    }
+
+    cashWithdrawal(atm, card, withdrawAmount) {
+        // definition
+    }
+
+    displayBalance(atm, card) {
+        // definition
+    }
+
+    transferMoney(atm, card, accountNumber, transferAmount) {
+        // definition
+    }
+
+    returnCard() {
+        // definition
+    }
+
+    exit(atm) {
+        // definition
+    }
+}

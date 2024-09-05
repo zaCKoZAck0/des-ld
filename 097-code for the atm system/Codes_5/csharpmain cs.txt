@@ -1,0 +1,276 @@
+public abstract class ATMState
+{
+    public abstract void InsertCard(ATM atm, ATMCard card);
+
+    public abstract void AuthenticatePin(ATM atm, ATMCard card, int pin);
+
+    public abstract void SelectOperation(ATM atm, ATMCard card, TransactionType tType);
+
+    public abstract void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount);
+
+    public abstract void DisplayBalance(ATM atm, ATMCard card);
+
+    public abstract void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount);
+
+    public abstract void ReturnCard();
+
+    public abstract void Exit(ATM atm);
+}
+
+public class IdleState : ATMState
+{
+    public override void InsertCard(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void AuthenticatePin(ATM atm, ATMCard card, int pin)
+    {
+        // definition
+    }
+
+    public override void SelectOperation(ATM atm, ATMCard card, TransactionType tType)
+    {
+        // definition
+    }
+
+    public override void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount)
+    {
+        // definition
+    }
+
+    public override void DisplayBalance(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount)
+    {
+        // definition
+    }
+
+    public override void ReturnCard()
+    {
+        // definition
+    }
+
+    public override void Exit(ATM atm)
+    {
+        // definition
+    }
+}
+
+public class HasCardState : ATMState
+{
+    public override void InsertCard(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void AuthenticatePin(ATM atm, ATMCard card, int pin)
+    {
+        // definition
+    }
+
+    public override void SelectOperation(ATM atm, ATMCard card, TransactionType tType)
+    {
+        // definition
+    }
+
+    public override void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount)
+    {
+        // definition
+    }
+
+    public override void DisplayBalance(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount)
+    {
+        // definition
+    }
+
+    public override void ReturnCard()
+    {
+        // definition
+    }
+
+    public override void Exit(ATM atm)
+    {
+        // definition
+    }
+}
+
+public class SelectOperationState : ATMState
+{
+    public override void InsertCard(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void AuthenticatePin(ATM atm, ATMCard card, int pin)
+    {
+        // definition
+    }
+
+    public override void SelectOperation(ATM atm, ATMCard card, TransactionType tType)
+    {
+        // definition
+    }
+
+    public override void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount)
+    {
+        // definition
+    }
+
+    public override void DisplayBalance(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount)
+    {
+        // definition
+    }
+
+    public override void ReturnCard()
+    {
+        // definition
+    }
+
+    public override void Exit(ATM atm)
+    {
+        // definition
+    }
+}
+
+public class CheckBalanceState : ATMState
+{
+    public override void InsertCard(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void AuthenticatePin(ATM atm, ATMCard card, int pin)
+    {
+        // definition
+    }
+
+    public override void SelectOperation(ATM atm, ATMCard card, TransactionType tType)
+    {
+        // definition
+    }
+
+    public override void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount)
+    {
+        // definition
+    }
+
+    public override void DisplayBalance(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount)
+    {
+        // definition
+    }
+
+    public override void ReturnCard()
+    {
+        // definition
+    }
+
+    public override void Exit(ATM atm)
+    {
+        // definition
+    }
+}
+
+public class CashWithdrawalState : ATMState
+{
+    public override void InsertCard(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void AuthenticatePin(ATM atm, ATMCard card, int pin)
+    {
+        // definition
+    }
+
+    public override void SelectOperation(ATM atm, ATMCard card, TransactionType tType)
+    {
+        // definition
+    }
+
+    public override void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount)
+    {
+        // definition
+    }
+
+    public override void DisplayBalance(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount)
+    {
+        // definition
+    }
+
+    public override void ReturnCard()
+    {
+        // definition
+    }
+
+    public override void Exit(ATM atm)
+    {
+        // definition
+    }
+}
+
+public class TransferMoneyState : ATMState
+{
+    public override void InsertCard(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void AuthenticatePin(ATM atm, ATMCard card, int pin)
+    {
+        // definition
+    }
+
+    public override void SelectOperation(ATM atm, ATMCard card, TransactionType tType)
+    {
+        // definition
+    }
+
+    public override void CashWithdrawal(ATM atm, ATMCard card, int withdrawAmount)
+    {
+        // definition
+    }
+
+    public override void DisplayBalance(ATM atm, ATMCard card)
+    {
+        // definition
+    }
+
+    public override void TransferMoney(ATM atm, ATMCard card, int accountNumber, int transferAmount)
+    {
+        // definition
+    }
+
+    public override void ReturnCard()
+    {
+        // definition
+    }
+
+    public override void Exit(ATM atm)
+    {
+        // definition
+    }
+}

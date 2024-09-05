@@ -1,0 +1,17 @@
+class Library:
+    def __init__(self):
+        self.name = None
+        self.address = None
+
+    def get_address(self):
+        return self.address
+
+    # The Library is a singleton class that ensures it will have only one active instance at a time
+    _library = None
+
+    # Created a class method to access the singleton instance of Library class
+    @classmethod
+    def get_instance(cls):
+        if cls._library is None:
+            cls._library = cls()
+        return cls._library

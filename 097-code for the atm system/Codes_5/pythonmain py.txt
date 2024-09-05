@@ -1,0 +1,236 @@
+
+
+from abc import ABC, abstractmethod
+
+class ATMState(ABC):
+    @abstractmethod
+    def insert_card(self, atm, card):
+        pass
+
+    @abstractmethod
+    def authenticate_pin(self, atm, card, pin):
+        pass
+
+    @abstractmethod
+    def select_operation(self, atm, card, t_type):
+        pass
+
+    @abstractmethod
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        pass
+
+    @abstractmethod
+    def display_balance(self, atm, card):
+        pass
+
+    @abstractmethod
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        pass
+
+    @abstractmethod
+    def return_card(self):
+        pass
+
+    @abstractmethod
+    def exit(self, atm):
+        pass
+
+class IdleState(ATMState):
+    def insert_card(self, atm, card):
+        # definition
+        pass
+
+    def authenticate_pin(self, atm, card, pin):
+        # definition
+        pass
+
+    def select_operation(self, atm, card, t_type):
+        # definition
+        pass
+
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        # definition
+        pass
+
+    def display_balance(self, atm, card):
+        # definition
+        pass
+
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        # definition
+        pass
+
+    def return_card(self):
+        # definition
+        pass
+
+    def exit(self, atm):
+        # definition
+        pass
+
+class HasCardState(ATMState):
+    def insert_card(self, atm, card):
+        # definition
+        pass
+
+    def authenticate_pin(self, atm, card, pin):
+        # definition
+        pass
+
+    def select_operation(self, atm, card, t_type):
+        # definition
+        pass
+
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        # definition
+        pass
+
+    def display_balance(self, atm, card):
+        # definition
+        pass
+
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        # definition
+        pass
+
+    def return_card(self):
+        # definition
+        pass
+
+    def exit(self, atm):
+        # definition
+        pass
+
+class SelectOperationState(ATMState):
+    def insert_card(self, atm, card):
+        # definition
+        pass
+
+    def authenticate_pin(self, atm, card, pin):
+        # definition
+        pass
+
+    def select_operation(self, atm, card, t_type):
+        # definition
+        pass
+
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        # definition
+        pass
+
+    def display_balance(self, atm, card):
+        # definition
+        pass
+
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        # definition
+        pass
+
+    def return_card(self):
+        # definition
+        pass
+
+    def exit(self, atm):
+        # definition
+        pass
+
+# Repeat the same structure for CheckBalanceState, CashWithdrawalState, TransferMoneyState
+class CheckBalanceState(ATMState):
+    def insert_card(self, atm, card):
+        # definition
+        pass
+
+    def authenticate_pin(self, atm, card, pin):
+        # definition
+        pass
+
+    def select_operation(self, atm, card, t_type):
+        # definition
+        pass
+
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        # definition
+        pass
+
+    def display_balance(self, atm, card):
+        # definition
+        pass
+
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        # definition
+        pass
+
+    def return_card(self):
+        # definition
+        pass
+
+    def exit(self, atm):
+        # definition
+        pass
+
+class CashWithdrawalState(ATMState):
+    def insert_card(self, atm, card):
+        # definition
+        pass
+
+    def authenticate_pin(self, atm, card, pin):
+        # definition
+        pass
+
+    def select_operation(self, atm, card, t_type):
+        # definition
+        pass
+
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        # definition
+        pass
+
+    def display_balance(self, atm, card):
+        # definition
+        pass
+
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        # definition
+        pass
+
+    def return_card(self):
+        # definition
+        pass
+
+    def exit(self, atm):
+        # definition
+        pass
+
+class TransferMoneyState(ATMState):
+    def insert_card(self, atm, card):
+        # definition
+        pass
+
+    def authenticate_pin(self, atm, card, pin):
+        # definition
+        pass
+
+    def select_operation(self, atm, card, t_type):
+        # definition
+        pass
+
+    def cash_withdrawal(self, atm, card, withdraw_amount):
+        # definition
+        pass
+
+    def display_balance(self, atm, card):
+        # definition
+        pass
+
+    def transfer_money(self, atm, card, account_number, transfer_amount):
+        # definition
+        pass
+
+    def return_card(self):
+        # definition
+        pass
+
+    def exit(self, atm):
+        # definition
+        pass
+

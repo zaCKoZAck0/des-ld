@@ -1,0 +1,12 @@
+
+
+// Enumeration
+enum ATMStatus {
+  Idle,
+  HasCard,
+  SelestionOption,
+  Withdraw,
+  TransferMoney,
+  BalanceInquiry
+}
+

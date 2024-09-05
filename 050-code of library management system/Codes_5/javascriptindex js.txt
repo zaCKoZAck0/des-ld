@@ -1,0 +1,83 @@
+class Book {
+    #isbn;
+    #title;
+    #subject;
+    #publisher;
+    #language;
+    #numberOfPages;
+    #bookFormat;
+    #authors;
+    constructor(isbn, title, subject, publisher, language, numberOfPages, bookFormat) {
+        this.#isbn = isbn;
+        this.#title = title;
+        this.#subject = subject;
+        this.#publisher = publisher;
+        this.#language = language;
+        this.#numberOfPages = numberOfPages;
+        this.#bookFormat = bookFormat;
+        this.#authors = new Array();
+    }
+}
+
+class BookItem {
+    #id;
+    #isReferenceOnly;
+    #borrowed;
+    #dueDate;
+    #price;
+    #status;
+    #dateOfPurchase;
+    #publicationDate;
+    #placedAt;
+    #book;
+
+    constructor(id, isReferenceOnly, borrowed, dueDate, price, status, dateOfPurchase, publicationDate, placedAt, book) {
+        this.#id = id;
+        this.#isReferenceOnly = isReferenceOnly;
+        this.#borrowed = borrowed;
+        this.#dueDate = dueDate;
+        this.#price = price;
+        this.#status = status;
+        this.#dateOfPurchase = dateOfPurchase;
+        this.#placedAt = placedAt;
+        this.#addedBy = null; 
+        placedAt.addBookItem(this);
+        this.book = new Book(); // Aggregation: BookItem has a reference to a Book
+    }
+    checkout(memberId) {
+        // Implementation for checkout logic
+        // Update the status, set due date, etc.
+        // Return true if checkout is successful, false otherwise
+        return true; // Placeholder, replace with actual logic
+    }
+
+    setPlacedAt(rack) {
+        this.placedAt = rack;
+        // Additional logic if needed
+    }
+
+    setAddedBy(librarian) {
+        // Implementation for setting the librarian who added the book item
+        // This might involve updating logs or other data related to the librarian
+        // No return value as it's a setter method
+    }
+
+    // Other methods...
+
+    getBook() {
+        return this.book;
+    }
+}
+
+class Rack {
+    #number;
+    #locationIdentifier
+    #bookItems;
+
+    constructor(number, locationIdentifier) {
+        this.#number = number;
+        this.#locationIdentifier = locationIdentifier;
+        this.#bookItems = [];
+    }
+    addBookItem(bookItem);
+}

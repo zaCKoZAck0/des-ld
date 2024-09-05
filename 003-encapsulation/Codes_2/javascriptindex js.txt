@@ -1,0 +1,44 @@
+class Movie {
+    constructor(t = "", y = -1, g = "") {
+        let title = t;
+        let year = y;
+        let genre = g;
+
+        this.get_title = function() {
+            return title;
+        };
+
+        this.set_title = function(t) {
+            title = t;
+        };
+
+        this.get_year = function() {
+            return year;
+        };
+
+        this.set_year = function(y) {
+            year = y;
+        };
+
+        this.get_genre = function() {
+            return genre;
+        };
+
+        this.set_genre = function(g) {
+            genre = g;
+        };
+    }
+
+    print_details() {
+        console.log("Title: ", this.get_title());
+        console.log("Year: ", this.get_year());
+        console.log("Genre: ", this.get_genre());
+    }
+}
+
+const movie = new Movie('The Lion King', 1994, 'Adventure');
+movie.print_details();
+
+console.log("---");
+movie.set_title("Forrest Gump");
+console.log("New title: ", movie.title());
